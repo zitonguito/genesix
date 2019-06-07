@@ -1,2 +1,1 @@
-# genesix
-# repositorio de sistema genesix 
+# Repositorio de sistema genesix 

@@ -1,6 +1,6 @@
 
 ##################################################################################
-# Shell    :                                                                     #
+# Shell    : "SREVMANTPV.sh"                                                     #
 # Objetivo : Detectar de forma rapida y sencilla todos los MANTPV que no estan po#
 #             leados en PSI, o que no son del dia de hoy                         #
 # Fecha    : Enero 2009                                                          #  

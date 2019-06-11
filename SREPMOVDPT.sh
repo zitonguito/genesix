@@ -1,9 +1,9 @@
 ###################################################################################
 # Script   : SREPMOVDPT.sh                                                        #
-# Objetivo : Agregar cabecera correspondiente y enviar via correo
-#            electronico el reporte de movimientos DPT diario y acumulado
-#	     el acumulado corre los dias lunes y los dias primero de mes 
-#
+# Objetivo : Agregar cabecera correspondiente y enviar via correo                 #
+#            electronico el reporte de movimientos DPT diario y acumulado         #
+#	     el acumulado corre los dias lunes y los dias primero de mes          #
+#                                                                                 #
 # Fecha    : 22 de Septiembre 2015                                                #
 # Modif    : -                                                                    #
 # Autor    : Ruben Romero                                                         #

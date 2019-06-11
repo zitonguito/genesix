@@ -2,9 +2,9 @@
 ###################################################################################
 # Script   : SREVPVPCAM.sh                                                        #
 # Objetivo : En caso de que el pvpcam correspondiente al dia no este correcto     #
-#			 copiarlo desde el PVPCAM, en caso de existir algun problema con      #
-#			 este ultimo, por ejemplo que no se hayan recibido edi, notificarlo   #
-#			 por correo                                                           #
+#	     copiarlo desde el PVPCAM, en caso de existir algun problema con      #
+#	     este ultimo, por ejemplo que no se hayan recibido edi, notificarlo   #
+#	     por correo                                                           #
 # Fecha    : 4 de Abril 2014                                                      #
 # Autor    : Ruben Romero                                                         #
 # Log      : NINGUNO                                                              #

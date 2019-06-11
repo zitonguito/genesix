@@ -1,3 +1,4 @@
+#!/bin/bash
 ###################################################################################
 # Script   : SREPMOVDPT.sh                                                        #
 # Objetivo : Agregar cabecera correspondiente y enviar via correo                 #
